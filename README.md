@@ -16,7 +16,7 @@
 <p> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <p>
 <p> My name is Bruno Sequeira and I live in Lamego, Viseu, Portugal. 
   I am currently studying Informatics Engineering at Coimbra University.
-  There I learned C, Java, Python and Matlab. I took some courses on Javascript, Html.  </p>
+  There I learned C, Java, Python and Matlab. I took some courses on Javascript, Html and Django.  </p>
 </div>
 
 
