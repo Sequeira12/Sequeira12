@@ -2,63 +2,124 @@
   <h1> 👋 Welcome!! 👋 </h1>
 </div>
 
-#
-
-
-<div align="center">
-  <p> 𝗬𝗼𝘂 𝗵𝗮𝘃𝗲 𝗳𝗶𝗻𝗮𝗹𝗹𝘆 𝗱𝗶𝘀𝗰𝗼𝘃𝗲𝗿𝗲𝗱 𝗺𝘆 𝗚𝗶𝘁𝗵𝘂𝗯 𝗣𝗿𝗼𝗳𝗶𝗹𝗲 <p>
-</div>
+##
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Informatics+Engineering+Student+at+University+of+Coimbra;&text-align=center&width=500&height=50&font=georgia"></a>
+</p>
 
 ##
 
 
 <div align="center">
 <p> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <p>
-<p> My name is Bruno Sequeira and I live in Lamego, Viseu, Portugal. 
-  I am currently studying Informatics Engineering at Coimbra University.
-  There I learned C, Java, Python and Matlab. I took some courses on Javascript, Html and Django.  </p>
+  <p> My name is Bruno Sequeira.<p>I live in Lamego, Viseu, Portugal. </p>
+  <p> I am currently studying Informatics Engineering at Coimbra University. </p>
+  
 </div>
+
+## 🔥 Streak Stats
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sequeira12&theme=algolia" alt="Sequeira12" /></p>
 
 
 
 ##
 
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+  &emsp;
+
+</p>
+
+
+
+### 👉 Frontend Development
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.w3.org/html/" target="_blank"> 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?logo=html5&logoColor=white">
+  </a>   
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a> 
+   &emsp;
+</p>
+
+
+
+
+### 👉 Frameworks
+<p align="left">
+  &emsp;
+   <a href="#"><img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white"></a>
+  
+
+</p>
+
+
+### 👉 Software & Tools
+
+<p>
+ 
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+
+</p>
+
+
+<br/>
+
+## 📊 Github Stats (Expand to View)
+
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Sequeira12"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Sequeira12&show_icons=true&locale=en&theme=algolia" alt="Sequeira12" height="192px"/></a>
+	</p>
+	<p  align="center">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sequeira12&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Sequeira12" height="192px"/>
+	</p>
+  <br/>
+ 
+  </p>
+</details>
+
+
+
+<br/>
+
+
+
+
+
 
 <div align="center">
-<p>  𝗠𝘆 𝗪𝗼𝗿𝗸𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀 𝗮𝗻𝗱 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: </p>
-</div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Sequeira12-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Sequeira12-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Sequeira12-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Sequeira12-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sequeira12-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sequeira12-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg">
-</div>
-
-
-##
-
-<div align="center">
-  <b> Hobbies: </b>
-  <p> I like play guittar, listen music and pratic exercise physic. </p>
-  </div>
-
-
-
-##
-
-<div align="center">
-<p> 𝗚𝗶𝘁𝗛𝘂𝗯 𝗦𝘁𝗮𝘁𝘀: <p>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Sequeira12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sequeira12&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-
-## 
-
-<div align="center">
-<p> 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮: </p>
+<p> 📱 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮: </p>
 </div>
 
 <div style="display: inline_block" align="center"><br> 
