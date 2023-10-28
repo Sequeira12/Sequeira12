@@ -12,7 +12,7 @@
 <div align="center">
 <p> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: <p>
   <p> My name is Bruno Sequeira.<p>I live in Lamego, Viseu, Portugal. </p>
-  <p> I am currently studying Informatics Engineering at Coimbra University. </p>
+  <p> I am currently studying Master's Degree Informatics Engineering at Coimbra University. </p>
   
 </div>
 
