@@ -4,7 +4,7 @@
 
 ##
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Master's+in+Informatics+Engineering+from+University+of+Coimbra;Looking+for+New+Opportunities!;&text-align=center&width=600&height=50&font=georgia">
+  <img align=center src="https://readme-typing-svg.herokuapp.com?lines=Master's+in+Informatics+Engineering+from+University+of+Coimbra;Tech+Analyst+at+Deloitte;Financial+Services+%7C+Guidewire+BillingCenter&text-align=center&width=700&height=50&font=georgia">
 </a>
 
 ##
@@ -12,9 +12,11 @@
 <div align="center">
   <p> 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲: </p>
   <p> My name is <b>Bruno Sequeira</b>.</p>
-  <p> I’m from Lamego, Viseu, Portugal. </p>
-  <p> I hold a <b>Master’s Degree in Informatics Engineering</b> from the University of Coimbra. </p>
-  <p> I’m currently <b>looking for new opportunities</b> to apply my skills and grow as a software engineer. </p>
+  <p> I’m from Lamego, Viseu, Portugal.</p>
+  <p> I hold a <b>Master’s Degree in Informatics Engineering</b> from the University of Coimbra.</p>
+  <p> I currently work as a <b>Tech Analyst at Deloitte</b> within the <b>Financial Services</b> sector.</p>
+  <p> My main focus is on <b>Guidewire BillingCenter</b>, contributing to the development and maintenance of insurance billing solutions.</p>
+  <p> I am interested in software engineering, enterprise applications, and delivering technology solutions that create business value.</p>
 </div>
 
 ## 🔥 Streak Stats
